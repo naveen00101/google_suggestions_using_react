@@ -1,0 +1,18 @@
+/* Write your CSS here */
+li {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.arrowImg {
+  width: 30px;
+  cursor: pointer;
+}
+
+.suggestionText {
+  font-size: 22px;
+  font-family: roboto;
+  font-weight: 300;
+}

@@ -1,0 +1,39 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.google {
+  width: 30vw;
+  margin-bottom: 50px;
+}
+
+.searchImg {
+  width: 35px;
+}
+
+.search-container {
+  border-radius: 20px;
+  padding: 20px;
+  width: 60vw;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+.input-search {
+  width: 52vw;
+  border-style: none;
+  outline: none;
+  margin-left: 10px;
+  font-size: 22px;
+}
+
+.search-box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
